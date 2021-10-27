@@ -56,6 +56,8 @@ many times as needed modulo 10^9+7.
 
 Complete the minSwaps function in the editor below. It has the following parameter(s):
 
+![Problem 2](/2.png "Problem 2")
+
 ### Constraints:
 
 ● 1<=N<=2\*10^5  
